@@ -1,0 +1,1 @@
+cmd /k "cd /d C:\Users\efzabar\PycharmProjects\Magshimim-Check-Subscription-Available\venv\Scripts & activate & cd /d    C:\Users\efzabar\PycharmProjects\Magshimim-Check-Subscription-Available & python main.py"
